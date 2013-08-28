@@ -1,7 +1,11 @@
 threex.suzanne
 ==============
 
-It is a three.js extension which provide you a monkey model.
+It is a 
+[threex](http://jeromeetienne.github.io/threex/) extension 
+for 
+[three.js](http://threejs.org)
+which provide you a monkey model.
 This is the blender famous suzanne.
 
 Show Don't Tell
