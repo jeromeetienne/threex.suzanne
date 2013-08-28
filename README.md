@@ -25,7 +25,6 @@ Or you can install with [bower](http://bower.io/), as you wish.
 bower install threex.suzanne
 ```
 
-
 How To Use It
 =============
 
@@ -54,6 +53,8 @@ new THREEx.Suzanne.GeometryLoader(function onLoad(geometry){
 Sometime it is not desirable to wait for the loading to complete before 
 adding the object to the scene. To avoid this, we create a container
 which will contains the model once loading is completed.
+Thanks to the scene graph inheritance, any position/quaternion/scale
+changes made on container, will be reported to the children meshes.
 
 ```javascript
 // create the container
