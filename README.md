@@ -14,6 +14,11 @@ Show Don't Tell
 \[[view source](https://github.com/jeromeetienne/threex.suzanne/blob/master/examples/basic.html)\] :
 It shows a basic usage of the extension.
 
+A Screenshot
+============
+[![screenshot](https://raw.githubusercontent.com/jeromeetienne/threex.suzanne/master/examples/images/screenshot-threex-suzanne-512x512.jpg)](http://jeromeetienne.github.io/threex.suzanne/examples/basic.html)
+
+
 How To Install It
 =================
 
