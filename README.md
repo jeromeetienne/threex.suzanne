@@ -1,12 +1,8 @@
 threex.suzanne
 ==============
 
-It is a 
-[threex](http://jeromeetienne.github.io/threex/) extension 
-for 
-[three.js](http://threejs.org)
-which provide you a monkey model.
-This is the blender famous suzanne.
+Suzanne is a classic. She is the blender famous model familiar to all blender users. It is also a [three.js games extension] (http://www.threejsgames.com/extensions/) extension which provides you with a monkey model. Blender wanted to create a less common test model, so Suzanne was born. She is more precisely a 3D model of a chimpanzee head. It is pretty basic but you can easily add it as a funky animal character and install it in your platform games! 
+
 
 Show Don't Tell
 ===============
